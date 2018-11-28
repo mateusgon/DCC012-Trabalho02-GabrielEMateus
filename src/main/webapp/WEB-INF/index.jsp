@@ -18,7 +18,7 @@
             <div class="card">
                 <div class="card-body">
                     <a href="inicial.html?id=2">
-                        <h5 class="card-title"> Item 2 - Trie Ternária </h5>
+                        <h5 class="card-title"> Item 2 - Trie </h5>
                         <i class="material-icons"  style="font-size:100px;">folder</i> 
                     </a>
                 </div>
